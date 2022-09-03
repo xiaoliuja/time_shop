@@ -1,0 +1,102 @@
+16:20:03.217 [main] INFO  com.xiaoliu.seckill.MainApplication - Starting MainApplication on LAPTOP-15O5DPD9 with PID 111260 (D:\笔墨屋实训\代码\seckill-parent\seckill-web\target\classes started by 86132 in D:\笔墨屋实训\代码\seckill-parent)
+16:20:03.274 [main] INFO  com.xiaoliu.seckill.MainApplication - No active profile set, falling back to default profiles: default
+16:20:06.097 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8091"]
+16:20:06.099 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:20:06.100 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+16:20:07.968 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:20:10.570 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8091"]
+16:20:10.663 [main] INFO  com.xiaoliu.seckill.MainApplication - Started MainApplication in 8.485 seconds (JVM running for 16.65)
+16:26:42.344 [http-nio-8091-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:26:42.382 [http-nio-8091-exec-1] INFO  com.xiaoliu.seckill.Security.UserLoginFilter - url 当前请求的路径:=/limitUser/verifyDecode,pattern 设定的拦截的路径/?([-|\w]+)?/(demo|product)/(\w)+|/?([-|\\w]+)?/assess/(index|partReport).do
+16:26:46.371 [http-nio-8091-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+16:26:47.276 [http-nio-8091-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+16:26:47.411 [http-nio-8091-exec-1] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ====[开始调用获取验证码的接口]====
+16:26:47.457 [http-nio-8091-exec-1] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[加密完成]====
+16:29:38.596 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+16:29:38.621 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+16:30:14.814 [main] INFO  com.xiaoliu.seckill.MainApplication - Starting MainApplication on LAPTOP-15O5DPD9 with PID 129984 (D:\笔墨屋实训\代码\seckill-parent\seckill-web\target\classes started by 86132 in D:\笔墨屋实训\代码\seckill-parent)
+16:30:14.832 [main] INFO  com.xiaoliu.seckill.MainApplication - No active profile set, falling back to default profiles: default
+16:30:17.305 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8091"]
+16:30:17.306 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:30:17.307 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+16:30:18.078 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:30:20.181 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8091"]
+16:30:20.245 [main] INFO  com.xiaoliu.seckill.MainApplication - Started MainApplication in 6.418 seconds (JVM running for 10.974)
+16:30:30.409 [http-nio-8091-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:30:30.451 [http-nio-8091-exec-1] INFO  com.xiaoliu.seckill.Security.UserLoginFilter - url 当前请求的路径:=/limitUser/verifyDecode,pattern 设定的拦截的路径/?([-|\w]+)?/(demo|product)/(\w)+|/?([-|\\w]+)?/assess/(index|partReport).do
+16:30:34.100 [http-nio-8091-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+16:30:34.863 [http-nio-8091-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+16:30:34.959 [http-nio-8091-exec-1] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ====[开始调用获取验证码的接口]====
+16:30:34.997 [http-nio-8091-exec-1] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[加密完成]====
+16:34:04.075 [http-nio-8091-exec-2] INFO  com.xiaoliu.seckill.Security.UserLoginFilter - url 当前请求的路径:=/limitUser/verifyDecode,pattern 设定的拦截的路径/?([-|\w]+)?/(demo|product)/(\w)+|/?([-|\\w]+)?/assess/(index|partReport).do
+16:34:04.086 [http-nio-8091-exec-2] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ====[开始调用获取验证码的接口]====
+16:34:04.094 [http-nio-8091-exec-2] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[加密完成]====
+16:36:56.674 [http-nio-8091-exec-4] INFO  com.xiaoliu.seckill.Security.UserLoginFilter - url 当前请求的路径:=/limitUser/verifyDecode,pattern 设定的拦截的路径/?([-|\w]+)?/(demo|product)/(\w)+|/?([-|\\w]+)?/assess/(index|partReport).do
+16:36:56.683 [http-nio-8091-exec-4] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ====[开始调用获取验证码的接口]====
+16:36:56.691 [http-nio-8091-exec-4] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[加密完成]====
+16:37:19.156 [http-nio-8091-exec-6] INFO  com.xiaoliu.seckill.Security.UserLoginFilter - url 当前请求的路径:=/limitUser/verifyDecode,pattern 设定的拦截的路径/?([-|\w]+)?/(demo|product)/(\w)+|/?([-|\\w]+)?/assess/(index|partReport).do
+16:37:19.161 [http-nio-8091-exec-6] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ====[开始调用获取验证码的接口]====
+16:37:19.168 [http-nio-8091-exec-6] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[加密完成]====
+16:37:22.935 [http-nio-8091-exec-8] INFO  com.xiaoliu.seckill.Security.UserLoginFilter - url 当前请求的路径:=/limitUser/hide/order,pattern 设定的拦截的路径/?([-|\w]+)?/(demo|product)/(\w)+|/?([-|\\w]+)?/assess/(index|partReport).do
+16:38:05.024 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+16:38:05.048 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+16:38:36.346 [main] INFO  com.xiaoliu.seckill.MainApplication - Starting MainApplication on LAPTOP-15O5DPD9 with PID 113136 (D:\笔墨屋实训\代码\seckill-parent\seckill-web\target\classes started by 86132 in D:\笔墨屋实训\代码\seckill-parent)
+16:38:36.365 [main] INFO  com.xiaoliu.seckill.MainApplication - No active profile set, falling back to default profiles: default
+16:38:38.962 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8091"]
+16:38:38.963 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:38:38.964 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+16:38:39.809 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:38:42.086 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8091"]
+16:38:42.157 [main] INFO  com.xiaoliu.seckill.MainApplication - Started MainApplication in 6.84 seconds (JVM running for 11.715)
+16:39:07.402 [http-nio-8091-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:39:07.445 [http-nio-8091-exec-1] INFO  com.xiaoliu.seckill.Security.UserLoginFilter - url 当前请求的路径:=/limitUser/verifyDecode,pattern 设定的拦截的路径/?([-|\w]+)?/(demo|product)/(\w)+|/?([-|\\w]+)?/assess/(index|partReport).do
+16:39:11.138 [http-nio-8091-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+16:39:11.957 [http-nio-8091-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+16:39:12.061 [http-nio-8091-exec-1] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ====[开始调用获取验证码的接口]====
+16:39:12.096 [http-nio-8091-exec-1] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[加密完成]====
+16:39:49.508 [http-nio-8091-exec-2] INFO  com.xiaoliu.seckill.Security.UserLoginFilter - url 当前请求的路径:=/limitUser/hide/order,pattern 设定的拦截的路径/?([-|\w]+)?/(demo|product)/(\w)+|/?([-|\\w]+)?/assess/(index|partReport).do
+16:39:58.798 [http-nio-8091-exec-3] INFO  com.xiaoliu.seckill.Security.UserLoginFilter - url 当前请求的路径:=/limitUser/hideOrder,pattern 设定的拦截的路径/?([-|\w]+)?/(demo|product)/(\w)+|/?([-|\\w]+)?/assess/(index|partReport).do
+16:40:02.523 [http-nio-8091-exec-4] INFO  com.xiaoliu.seckill.Security.UserLoginFilter - url 当前请求的路径:=/limitUser/hideOrder,pattern 设定的拦截的路径/?([-|\w]+)?/(demo|product)/(\w)+|/?([-|\\w]+)?/assess/(index|partReport).do
+16:42:53.084 [http-nio-8091-exec-5] INFO  com.xiaoliu.seckill.Security.UserLoginFilter - url 当前请求的路径:=/limitUser/verifyDecode,pattern 设定的拦截的路径/?([-|\w]+)?/(demo|product)/(\w)+|/?([-|\\w]+)?/assess/(index|partReport).do
+16:42:53.093 [http-nio-8091-exec-5] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ====[开始调用获取验证码的接口]====
+16:42:53.102 [http-nio-8091-exec-5] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[加密完成]====
+16:43:05.761 [http-nio-8091-exec-7] INFO  com.xiaoliu.seckill.Security.UserLoginFilter - url 当前请求的路径:=/limitUser/hideOrder,pattern 设定的拦截的路径/?([-|\w]+)?/(demo|product)/(\w)+|/?([-|\\w]+)?/assess/(index|partReport).do
+16:43:05.767 [http-nio-8091-exec-7] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[隐藏url接口的秒杀下单逻辑校验开始]===
+16:43:05.767 [http-nio-8091-exec-7] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[开始经过限流程序]===
+16:43:05.770 [http-nio-8091-exec-7] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[限流通过！！！！]====
+16:43:05.770 [http-nio-8091-exec-7] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - 开始通过逻辑校验
+16:43:23.175 [http-nio-8091-exec-9] INFO  com.xiaoliu.seckill.Security.UserLoginFilter - url 当前请求的路径:=/limitUser/hideOrder,pattern 设定的拦截的路径/?([-|\w]+)?/(demo|product)/(\w)+|/?([-|\\w]+)?/assess/(index|partReport).do
+16:43:23.182 [http-nio-8091-exec-9] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[隐藏url接口的秒杀下单逻辑校验开始]===
+16:43:23.182 [http-nio-8091-exec-9] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[开始经过限流程序]===
+16:43:23.183 [http-nio-8091-exec-9] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[限流通过！！！！]====
+16:43:23.183 [http-nio-8091-exec-9] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - 开始通过逻辑校验
+16:43:23.195 [http-nio-8091-exec-9] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[开始一人多单校验]===
+16:43:23.200 [http-nio-8091-exec-9] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - 通过一人多单校验
+16:45:26.799 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+16:45:26.888 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+18:35:46.577 [main] INFO  com.xiaoliu.seckill.MainApplication - Starting MainApplication on LAPTOP-15O5DPD9 with PID 74196 (D:\笔墨屋实训\代码\seckill-parent\seckill-web\target\classes started by 86132 in D:\笔墨屋实训\代码\seckill-parent)
+18:35:46.601 [main] INFO  com.xiaoliu.seckill.MainApplication - No active profile set, falling back to default profiles: default
+18:35:49.487 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8091"]
+18:35:49.488 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+18:35:49.488 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+18:35:50.370 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:35:52.959 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8091"]
+18:35:53.060 [main] INFO  com.xiaoliu.seckill.MainApplication - Started MainApplication in 7.578 seconds (JVM running for 15.063)
+18:38:13.987 [http-nio-8091-exec-2] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18:38:14.026 [http-nio-8091-exec-2] INFO  com.xiaoliu.seckill.Security.UserLoginFilter - url 当前请求的路径:=/limitUser/verifyDecode,pattern 设定的拦截的路径/?([-|\w]+)?/(demo|product)/(\w)+|/?([-|\\w]+)?/assess/(index|partReport).do
+18:38:17.856 [http-nio-8091-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+18:38:18.771 [http-nio-8091-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+18:38:18.899 [http-nio-8091-exec-2] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ====[开始调用获取验证码的接口]====
+18:38:18.943 [http-nio-8091-exec-2] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[加密完成]====
+18:38:35.021 [http-nio-8091-exec-1] INFO  com.xiaoliu.seckill.Security.UserLoginFilter - url 当前请求的路径:=/limitUser/hideOrder,pattern 设定的拦截的路径/?([-|\w]+)?/(demo|product)/(\w)+|/?([-|\\w]+)?/assess/(index|partReport).do
+18:38:35.043 [http-nio-8091-exec-1] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[隐藏url接口的秒杀下单逻辑校验开始]===
+18:38:35.044 [http-nio-8091-exec-1] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[开始经过限流程序]===
+18:38:35.047 [http-nio-8091-exec-1] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[限流通过！！！！]====
+18:38:35.047 [http-nio-8091-exec-1] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - 开始通过逻辑校验
+18:38:46.184 [http-nio-8091-exec-4] INFO  com.xiaoliu.seckill.Security.UserLoginFilter - url 当前请求的路径:=/limitUser/hideOrder,pattern 设定的拦截的路径/?([-|\w]+)?/(demo|product)/(\w)+|/?([-|\\w]+)?/assess/(index|partReport).do
+18:38:46.190 [http-nio-8091-exec-4] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[隐藏url接口的秒杀下单逻辑校验开始]===
+18:38:46.190 [http-nio-8091-exec-4] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[开始经过限流程序]===
+18:38:46.191 [http-nio-8091-exec-4] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[限流通过！！！！]====
+18:38:46.191 [http-nio-8091-exec-4] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - 开始通过逻辑校验
+18:38:46.204 [http-nio-8091-exec-4] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - ===[开始一人多单校验]===
+18:38:46.209 [http-nio-8091-exec-4] INFO  com.xiaoliu.seckill.service.impl.limitUserServiceImpl - 通过一人多单校验

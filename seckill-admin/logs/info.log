@@ -1,0 +1,28 @@
+10:50:25.470 [main] INFO  test - Starting test on LAPTOP-15O5DPD9 with PID 67940 (started by 86132 in D:\笔墨屋实训\代码\seckill-parent\seckill-admin)
+10:50:25.504 [main] INFO  test - No active profile set, falling back to default profiles: default
+10:50:33.198 [main] INFO  test - Started test in 8.622 seconds (JVM running for 16.655)
+10:50:33.794 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+10:50:35.801 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+10:50:36.004 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+10:50:36.088 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+10:53:32.034 [main] INFO  test - Starting test on LAPTOP-15O5DPD9 with PID 38184 (started by 86132 in D:\笔墨屋实训\代码\seckill-parent\seckill-admin)
+10:53:32.054 [main] INFO  test - No active profile set, falling back to default profiles: default
+10:53:39.710 [main] INFO  test - Started test in 8.606 seconds (JVM running for 12.665)
+10:53:40.443 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+10:53:42.762 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+10:53:42.989 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+10:53:43.088 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+11:01:31.718 [main] INFO  test - Starting test on LAPTOP-15O5DPD9 with PID 49156 (started by 86132 in D:\笔墨屋实训\代码\seckill-parent\seckill-admin)
+11:01:31.737 [main] INFO  test - No active profile set, falling back to default profiles: default
+11:01:38.426 [main] INFO  test - Started test in 7.523 seconds (JVM running for 11.294)
+11:01:38.968 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+11:01:40.992 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+11:01:41.198 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+11:01:41.207 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+11:09:22.824 [main] INFO  test - Starting test on LAPTOP-15O5DPD9 with PID 74664 (started by 86132 in D:\笔墨屋实训\代码\seckill-parent\seckill-admin)
+11:09:22.846 [main] INFO  test - No active profile set, falling back to default profiles: default
+11:09:30.820 [main] INFO  test - Started test in 8.977 seconds (JVM running for 13.101)
+11:09:31.388 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+11:09:33.516 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+11:09:33.731 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+11:09:33.741 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

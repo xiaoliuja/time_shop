@@ -1,0 +1,3 @@
+09:38:38.508 [main] INFO  com.xiaoliu.seckill.test01 - Starting test01 on LAPTOP-15O5DPD9 with PID 32920 (started by 86132 in D:\笔墨屋实训\代码\seckill-parent\seckill-web)
+09:38:38.533 [main] INFO  com.xiaoliu.seckill.test01 - No active profile set, falling back to default profiles: default
+09:38:47.165 [main] INFO  com.xiaoliu.seckill.test01 - Started test01 in 9.701 seconds (JVM running for 18.633)

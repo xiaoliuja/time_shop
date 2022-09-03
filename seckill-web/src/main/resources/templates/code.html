@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input id="imageId" name="imageId" type="text" value="">
+<img id="loginvalidate" class="yzmImg fl" src="">
+<div class="yzm_flush" onclick="flushValidateimg();">看不清？刷新</div>
+</body>
+</html>
+<script src="/js/jquery-1.10.2.min.js"></script>
+<script>
+    function flushValidateimg() { //刷新验证码
+        $.ajax({
+            url: '/seckill/code',
+            type: 'post',
+            error: function () {
+                alert('error');
+            },
+            success: function (data) {
+                $('#imageId').val(data.data.imageId);
+                $('#loginvalidate').attr("src", 'data:image/jpg;base64,' + data.data.imageStr);
+            }
+        });
+    }
+
+    $(document).ready(function () {
+        flushValidateimg();
+    });
+</script>

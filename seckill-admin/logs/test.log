@@ -1,0 +1,7 @@
+11:09:22.824 [main] INFO  test - Starting test on LAPTOP-15O5DPD9 with PID 74664 (started by 86132 in D:\笔墨屋实训\代码\seckill-parent\seckill-admin)
+11:09:22.846 [main] INFO  test - No active profile set, falling back to default profiles: default
+11:09:30.820 [main] INFO  test - Started test in 8.977 seconds (JVM running for 13.101)
+11:09:31.388 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+11:09:33.516 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+11:09:33.731 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+11:09:33.741 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
